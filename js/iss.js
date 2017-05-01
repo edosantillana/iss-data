@@ -30,7 +30,7 @@ function almeria() {
 }
 
 var ISSIcon = L.icon({
-    iconUrl: '/iss/img/ISSIcon.png',
+    iconUrl: 'https://edosantillana.github.io/iss/img/ISSIcon.png',
     iconSize: [50, 30]
 });
 
